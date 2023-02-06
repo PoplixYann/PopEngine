@@ -12,3 +12,5 @@ Pop Engine is write in C++ and uses :
 - [GLM](https://github.com/g-truc/glm) as mathematics library.
 - [ImGui](https://github.com/ocornut/imgui) for GUI.
 - [spdlog](https://github.com/gabime/spdlog) for logging.
+
+To generate project for Visual Studio 2022, launch GenerateProject.bat or look at [Premake](https://premake.github.io/docs/Using-Premake/) to generate project for other IDE.
