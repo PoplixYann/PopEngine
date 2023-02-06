@@ -2,7 +2,7 @@
 Pop Engine is a personal project, which i do during my free time.
 I work on it to improve my skills in engine programming.
 
-The foundation of the project is a lot based on the series "Game Engine" from the youtuber [TheCherno](https://github.com/TheCherno).
+The foundation of the project is a lot based on the series "Game Engine" from the youtuber [@TheCherno](https://github.com/TheCherno).
 
 Pop Engine is write in C++ and uses :
 - [Premake](https://premake.github.io/) for multi-platform and IDE project generation.
